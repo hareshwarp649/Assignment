@@ -10,14 +10,15 @@ namespace EmpWagePro
     {
         static void Main(string[] args)
         {
-              Console.WriteLine("Welcome to Employee Wage Program");
-            EmpCheck.EmpPresentOrNot();
+            //Console.WriteLine("Welcome to Employee Wage Program");
+            //EmpCheck.EmpPresentOrNot();
             // CalculateEmpWage.CalEmpWage();
             // SwitchCalEmpWage.CalEmpWage();
             //  HourseCalEmpWage.CalHourse(); 
             // SnakeLadderProb.SimuLadder();
-            
-           // LineCompaProb.ComparisonProb();
+
+            // LineCompaProb.ComparisonProb();
+            DailyEmpWage.CalcuDaily();
         }
     }
 }
