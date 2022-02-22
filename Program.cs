@@ -15,10 +15,15 @@ namespace EmpWagePro
             // CalculateEmpWage.CalEmpWage();
             // SwitchCalEmpWage.CalEmpWage();
             //  HourseCalEmpWage.CalHourse(); 
-            // SnakeLadderProb.SimuLadder();
+             SnakeLadderProb.SimuLadder();
+        //    SnakeLadderProb gm = new SnakeLadderProb();
+             //  gm.SimuLadder()
+            //   LineCompaProb.ComparisonProb();
+            // DailyEmpWage.CalcuDaily();
+            // SnakePlayer.PlayerSnake();
+           // SnakePlayer player1 = new SnakePlayer();
+            //SnakePlayer player2 = new SnakePlayer();
 
-             LineCompaProb.ComparisonProb();
-           // DailyEmpWage.CalcuDaily();
         }
     }
 }
