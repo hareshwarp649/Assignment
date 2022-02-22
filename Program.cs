@@ -17,8 +17,8 @@ namespace EmpWagePro
             //  HourseCalEmpWage.CalHourse(); 
             // SnakeLadderProb.SimuLadder();
 
-            // LineCompaProb.ComparisonProb();
-            DailyEmpWage.CalcuDaily();
+             LineCompaProb.ComparisonProb();
+           // DailyEmpWage.CalcuDaily();
         }
     }
 }
